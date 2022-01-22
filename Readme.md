@@ -20,3 +20,4 @@ Comandos:
 git status
 
 
+Inserindo um novo texto
